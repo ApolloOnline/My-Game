@@ -1,1 +1,1 @@
-# My-Game
+# Trex-Game
